@@ -1,0 +1,2358 @@
+{
+  "portalBase": "https://www.avios.com/en-GB/collect-avios/shopping/retailers/",
+  "updated": "2026-10-08",
+  "retailers": [
+    {
+      "slug": "absolute-collagen",
+      "name": "Absolute Collagen",
+      "domains": [
+        "absolutecollagen.com"
+      ]
+    },
+    {
+      "slug": "acer-uk",
+      "name": "Acer",
+      "domains": [
+        "acer.com"
+      ]
+    },
+    {
+      "slug": "adidas-uk",
+      "name": "Adidas",
+      "domains": [
+        "adidas.co.uk",
+        "adidas.com"
+      ]
+    },
+    {
+      "slug": "admiral-travel-insurance",
+      "name": "Admiral",
+      "domains": [
+        "admiral.com"
+      ]
+    },
+    {
+      "slug": "adt-home-security",
+      "name": "ADT",
+      "domains": [
+        "adt.co.uk"
+      ]
+    },
+    {
+      "slug": "aeg-uk",
+      "name": "AEG",
+      "domains": [
+        "aeg.co.uk"
+      ]
+    },
+    {
+      "slug": "agoda-uk",
+      "name": "Agoda",
+      "domains": [
+        "agoda.com"
+      ]
+    },
+    {
+      "slug": "aliexpress-uk",
+      "name": "AliExpress UK",
+      "domains": [
+        "aliexpress.com"
+      ]
+    },
+    {
+      "slug": "allsaints",
+      "name": "AllSaints",
+      "domains": [
+        "allsaints.com"
+      ]
+    },
+    {
+      "slug": "american-tourister-uk",
+      "name": "American Tourister",
+      "domains": [
+        "americantourister.co.uk"
+      ]
+    },
+    {
+      "slug": "and-other-stories-uk",
+      "name": "& Other Stories",
+      "domains": [
+        "stories.com"
+      ]
+    },
+    {
+      "slug": "anthropologie-uk",
+      "name": "Anthropologie",
+      "domains": [
+        "anthropologie.com"
+      ]
+    },
+    {
+      "slug": "aph-airport-parking-and-hotels",
+      "name": "APH Airport Parking & Hotels",
+      "domains": [
+        "aph.com"
+      ]
+    },
+    {
+      "slug": "apple-store-online",
+      "name": "Apple",
+      "domains": [
+        "apple.com"
+      ]
+    },
+    {
+      "slug": "appleyard-flowers",
+      "name": "Appleyard Flowers",
+      "domains": [
+        "appleyardflowers.com"
+      ]
+    },
+    {
+      "slug": "appliances-direct",
+      "name": "Appliances Direct",
+      "domains": [
+        "appliancesdirect.co.uk"
+      ]
+    },
+    {
+      "slug": "argoscouk",
+      "name": "Argos.co.uk",
+      "domains": [
+        "argos.co.uk"
+      ]
+    },
+    {
+      "slug": "arnotts-northern-ireland",
+      "name": "Arnotts",
+      "domains": [
+        "arnotts.ie"
+      ]
+    },
+    {
+      "slug": "aspinal-of-london",
+      "name": "Aspinal of London",
+      "domains": [
+        "aspinaloflondon.com"
+      ]
+    },
+    {
+      "slug": "astrid-and-miyu",
+      "name": "Astrid & Miyu",
+      "domains": [
+        "astridandmiyu.com"
+      ]
+    },
+    {
+      "slug": "atg-tickets",
+      "name": "ATG Tickets",
+      "domains": [
+        "atgtickets.com"
+      ]
+    },
+    {
+      "slug": "avios-hotels",
+      "name": "Avios Hotels",
+      "domains": [
+        "avioshotels.com"
+      ]
+    },
+    {
+      "slug": "avis",
+      "name": "Avis",
+      "domains": [
+        "avis.co.uk",
+        "avis.com"
+      ]
+    },
+    {
+      "slug": "b-and-q",
+      "name": "B&Q",
+      "domains": [
+        "diy.com"
+      ]
+    },
+    {
+      "slug": "bam",
+      "name": "BAM",
+      "domains": [
+        "bambooclothing.co.uk"
+      ]
+    },
+    {
+      "slug": "barker-and-stonehouse",
+      "name": "Barker and Stonehouse",
+      "domains": [
+        "barkerandstonehouse.co.uk"
+      ]
+    },
+    {
+      "slug": "bbc-maestro",
+      "name": "BBC Maestro",
+      "domains": [
+        "bbcmaestro.com"
+      ]
+    },
+    {
+      "slug": "beagle-street-life-insurance",
+      "name": "Beagle Street",
+      "domains": [
+        "beaglestreet.com"
+      ]
+    },
+    {
+      "slug": "beauty-bay",
+      "name": "BEAUTY BAY",
+      "domains": [
+        "beautybay.com"
+      ]
+    },
+    {
+      "slug": "beaverbrooks",
+      "name": "Beaverbrooks",
+      "domains": [
+        "beaverbrooks.co.uk"
+      ]
+    },
+    {
+      "slug": "bedeck-home",
+      "name": "Bedeck Home",
+      "domains": [
+        "bedeckhome.com"
+      ]
+    },
+    {
+      "slug": "bensons-for-beds",
+      "name": "Bensons for Beds",
+      "domains": [
+        "bensonsforbeds.co.uk"
+      ]
+    },
+    {
+      "slug": "berghaus",
+      "name": "Berghaus",
+      "domains": [
+        "berghaus.com"
+      ]
+    },
+    {
+      "slug": "best-western-hotels-gb",
+      "name": "Best Western",
+      "domains": [
+        "bestwestern.co.uk"
+      ]
+    },
+    {
+      "slug": "bigdug",
+      "name": "BiGDUG",
+      "domains": [
+        "bigdug.co.uk"
+      ]
+    },
+    {
+      "slug": "bloom-and-wild",
+      "name": "Bloom & Wild",
+      "domains": [
+        "bloomandwild.com"
+      ]
+    },
+    {
+      "slug": "bonmarche",
+      "name": "Bonmarche",
+      "domains": [
+        "bonmarche.co.uk"
+      ]
+    },
+    {
+      "slug": "boohoo-uk",
+      "name": "boohoo",
+      "domains": [
+        "boohoo.com"
+      ]
+    },
+    {
+      "slug": "bookingcom-uk",
+      "name": "Booking.com",
+      "domains": [
+        "booking.com"
+      ]
+    },
+    {
+      "slug": "bootscom",
+      "name": "Boots",
+      "domains": [
+        "boots.com"
+      ]
+    },
+    {
+      "slug": "bosch",
+      "name": "Bosch",
+      "domains": [
+        "bosch-home.co.uk"
+      ]
+    },
+    {
+      "slug": "brastop",
+      "name": "Brastop",
+      "domains": [
+        "brastop.com"
+      ]
+    },
+    {
+      "slug": "brewers-decorator-centres",
+      "name": "Brewers",
+      "domains": [
+        "brewers.co.uk"
+      ]
+    },
+    {
+      "slug": "brown-thomas-northern-ireland",
+      "name": "Brown Thomas",
+      "domains": [
+        "brownthomas.com"
+      ]
+    },
+    {
+      "slug": "butlins",
+      "name": "Butlin's",
+      "domains": [
+        "butlins.com"
+      ]
+    },
+    {
+      "slug": "buyagift",
+      "name": "Buyagift",
+      "domains": [
+        "buyagift.co.uk"
+      ]
+    },
+    {
+      "slug": "calvin-klein-uk",
+      "name": "Calvin Klein",
+      "domains": [
+        "calvinklein.co.uk"
+      ]
+    },
+    {
+      "slug": "canon-uk",
+      "name": "Canon",
+      "domains": [
+        "canon.co.uk"
+      ]
+    },
+    {
+      "slug": "canterbury",
+      "name": "Canterbury",
+      "domains": [
+        "canterbury.com"
+      ]
+    },
+    {
+      "slug": "cardfactory",
+      "name": "Card Factory",
+      "domains": [
+        "cardfactory.co.uk"
+      ]
+    },
+    {
+      "slug": "castore",
+      "name": "Castore",
+      "domains": [
+        "castore.com"
+      ]
+    },
+    {
+      "slug": "charles-tyrwhitt-uk",
+      "name": "Charles Tyrwhitt",
+      "domains": [
+        "charlestyrwhitt.com"
+      ]
+    },
+    {
+      "slug": "charlotte-tilbury",
+      "name": "Charlotte Tilbury",
+      "domains": [
+        "charlottetilbury.com"
+      ]
+    },
+    {
+      "slug": "chicco",
+      "name": "Chicco",
+      "domains": [
+        "chicco.co.uk"
+      ]
+    },
+    {
+      "slug": "chillblast",
+      "name": "Chillblast",
+      "domains": [
+        "chillblast.com"
+      ]
+    },
+    {
+      "slug": "christian-dior-parfums-uk",
+      "name": "Dior",
+      "domains": [
+        "dior.com"
+      ]
+    },
+    {
+      "slug": "christy",
+      "name": "Christy",
+      "domains": [
+        "christy.co.uk"
+      ]
+    },
+    {
+      "slug": "clarks",
+      "name": "Clarks",
+      "domains": [
+        "clarks.com",
+        "clarks.co.uk"
+      ]
+    },
+    {
+      "slug": "clinique-uk",
+      "name": "Clinique",
+      "domains": [
+        "clinique.co.uk"
+      ]
+    },
+    {
+      "slug": "clogau",
+      "name": "Clogau",
+      "domains": [
+        "clogau.co.uk"
+      ]
+    },
+    {
+      "slug": "coach-uk",
+      "name": "Coach UK",
+      "domains": [
+        "coach.com"
+      ]
+    },
+    {
+      "slug": "coast",
+      "name": "Coast",
+      "domains": [
+        "coastfashion.com"
+      ]
+    },
+    {
+      "slug": "columbus-direct-travel-insurance",
+      "name": "Columbus Direct",
+      "domains": [
+        "columbusdirect.com"
+      ]
+    },
+    {
+      "slug": "compare-the-market-car-insurance",
+      "name": "Compare the Market",
+      "domains": [
+        "comparethemarket.com"
+      ]
+    },
+    {
+      "slug": "confusedcom-car-insurance",
+      "name": "Confused.com",
+      "domains": [
+        "confused.com"
+      ]
+    },
+    {
+      "slug": "cos",
+      "name": "COS",
+      "domains": [
+        "cos.com"
+      ]
+    },
+    {
+      "slug": "cotswold-outdoor",
+      "name": "Cotswold Outdoor",
+      "domains": [
+        "cotswoldoutdoor.com"
+      ]
+    },
+    {
+      "slug": "cotton-traders",
+      "name": "Cotton Traders",
+      "domains": [
+        "cottontraders.com"
+      ]
+    },
+    {
+      "slug": "cowshed",
+      "name": "Cowshed",
+      "domains": [
+        "cowshed.com"
+      ]
+    },
+    {
+      "slug": "craghoppers",
+      "name": "Craghoppers",
+      "domains": [
+        "craghoppers.com"
+      ]
+    },
+    {
+      "slug": "crew-clothing",
+      "name": "Crew Clothing",
+      "domains": [
+        "crewclothing.co.uk"
+      ]
+    },
+    {
+      "slug": "crocs-uk",
+      "name": "Crocs",
+      "domains": [
+        "crocs.co.uk",
+        "crocs.com"
+      ]
+    },
+    {
+      "slug": "cult-beauty",
+      "name": "Cult Beauty",
+      "domains": [
+        "cultbeauty.co.uk",
+        "cultbeauty.com"
+      ]
+    },
+    {
+      "slug": "currys",
+      "name": "Currys",
+      "domains": [
+        "currys.co.uk"
+      ]
+    },
+    {
+      "slug": "curvy-kate",
+      "name": "Curvy Kate",
+      "domains": [
+        "curvykate.com"
+      ]
+    },
+    {
+      "slug": "dare2b-uk",
+      "name": "Dare2b",
+      "domains": [
+        "dare2b.com"
+      ]
+    },
+    {
+      "slug": "decathlon-uk",
+      "name": "Decathlon",
+      "domains": [
+        "decathlon.co.uk"
+      ]
+    },
+    {
+      "slug": "dents-gloves",
+      "name": "Dents",
+      "domains": [
+        "dents.co.uk"
+      ]
+    },
+    {
+      "slug": "dermalogica-uk",
+      "name": "Dermalogica",
+      "domains": [
+        "dermalogica.co.uk"
+      ]
+    },
+    {
+      "slug": "diptyque",
+      "name": "Diptyque",
+      "domains": [
+        "diptyqueparis.com"
+      ]
+    },
+    {
+      "slug": "disneyland-paris",
+      "name": "Disneyland Paris",
+      "domains": [
+        "disneylandparis.com"
+      ]
+    },
+    {
+      "slug": "dr-barbara-sturm",
+      "name": "Dr. Barbara Sturm",
+      "domains": [
+        "drsturm.com"
+      ]
+    },
+    {
+      "slug": "dreams",
+      "name": "Dreams",
+      "domains": [
+        "dreams.co.uk"
+      ]
+    },
+    {
+      "slug": "drvegan",
+      "name": "DR.VEGAN",
+      "domains": [
+        "drvegan.com"
+      ]
+    },
+    {
+      "slug": "dryrobe",
+      "name": "dryrobe",
+      "domains": [
+        "dryrobe.com"
+      ]
+    },
+    {
+      "slug": "dunelm",
+      "name": "Dunelm",
+      "domains": [
+        "dunelm.com"
+      ]
+    },
+    {
+      "slug": "dyson-uk",
+      "name": "Dyson",
+      "domains": [
+        "dyson.co.uk"
+      ]
+    },
+    {
+      "slug": "ebay-uk",
+      "name": "eBay",
+      "domains": [
+        "ebay.co.uk"
+      ]
+    },
+    {
+      "slug": "ekster",
+      "name": "Ekster",
+      "domains": [
+        "ekster.com"
+      ]
+    },
+    {
+      "slug": "elemis",
+      "name": "ELEMIS",
+      "domains": [
+        "elemis.com"
+      ]
+    },
+    {
+      "slug": "end",
+      "name": "END.",
+      "domains": [
+        "endclothing.com"
+      ]
+    },
+    {
+      "slug": "ernest-jones",
+      "name": "Ernest Jones",
+      "domains": [
+        "ernestjones.co.uk"
+      ]
+    },
+    {
+      "slug": "estee-lauder-uk",
+      "name": "Estee Lauder",
+      "domains": [
+        "esteelauder.co.uk"
+      ]
+    },
+    {
+      "slug": "etsy-uk",
+      "name": "Etsy",
+      "domains": [
+        "etsy.com"
+      ]
+    },
+    {
+      "slug": "eufy",
+      "name": "eufy",
+      "domains": [
+        "eufy.com"
+      ]
+    },
+    {
+      "slug": "eve-lom",
+      "name": "EVE LOM",
+      "domains": [
+        "evelom.com"
+      ]
+    },
+    {
+      "slug": "eve-sleep",
+      "name": "Eve Sleep",
+      "domains": [
+        "evesleep.co.uk"
+      ]
+    },
+    {
+      "slug": "farfetch-uk",
+      "name": "Farfetch",
+      "domains": [
+        "farfetch.com"
+      ]
+    },
+    {
+      "slug": "feelgoodcontacts",
+      "name": "FeelGoodContacts",
+      "domains": [
+        "feelgoodcontacts.com"
+      ]
+    },
+    {
+      "slug": "fenty-beauty-uk",
+      "name": "Fenty Beauty",
+      "domains": [
+        "fentybeauty.com"
+      ]
+    },
+    {
+      "slug": "flannels",
+      "name": "Flannels",
+      "domains": [
+        "flannels.com"
+      ]
+    },
+    {
+      "slug": "fortnum-and-mason",
+      "name": "Fortnum & Mason",
+      "domains": [
+        "fortnumandmason.com"
+      ]
+    },
+    {
+      "slug": "frasers",
+      "name": "Frasers",
+      "domains": [
+        "frasers.com"
+      ]
+    },
+    {
+      "slug": "freddies-flowers",
+      "name": "Freddie's Flowers",
+      "domains": [
+        "freddiesflowers.com"
+      ]
+    },
+    {
+      "slug": "freemans",
+      "name": "Freemans",
+      "domains": [
+        "freemans.com"
+      ]
+    },
+    {
+      "slug": "french-connection",
+      "name": "French Connection",
+      "domains": [
+        "frenchconnection.com"
+      ]
+    },
+    {
+      "slug": "funky-pigeon",
+      "name": "Funky Pigeon",
+      "domains": [
+        "funkypigeon.com"
+      ]
+    },
+    {
+      "slug": "furniture-village",
+      "name": "Furniture Village",
+      "domains": [
+        "furniturevillage.co.uk"
+      ]
+    },
+    {
+      "slug": "gant",
+      "name": "GANT",
+      "domains": [
+        "gant.co.uk",
+        "gant.com"
+      ]
+    },
+    {
+      "slug": "garden-trading",
+      "name": "Garden Trading",
+      "domains": [
+        "gardentrading.co.uk"
+      ]
+    },
+    {
+      "slug": "gatineau",
+      "name": "Gatineau",
+      "domains": [
+        "gatineau.com"
+      ]
+    },
+    {
+      "slug": "getsmarter",
+      "name": "GetSmarter",
+      "domains": [
+        "getsmarter.com"
+      ]
+    },
+    {
+      "slug": "getyourguide",
+      "name": "GetYourGuide",
+      "domains": [
+        "getyourguide.com"
+      ]
+    },
+    {
+      "slug": "gigliocom-uk",
+      "name": "GIGLIO.COM",
+      "domains": [
+        "giglio.com"
+      ]
+    },
+    {
+      "slug": "glasses-direct",
+      "name": "Glasses Direct",
+      "domains": [
+        "glassesdirect.co.uk"
+      ]
+    },
+    {
+      "slug": "go-city",
+      "name": "Go City",
+      "domains": [
+        "gocity.com"
+      ]
+    },
+    {
+      "slug": "gocompare-car-insurance",
+      "name": "Go.Compare",
+      "domains": [
+        "gocompare.com"
+      ]
+    },
+    {
+      "slug": "goldsmiths",
+      "name": "Goldsmiths",
+      "domains": [
+        "goldsmiths.co.uk"
+      ]
+    },
+    {
+      "slug": "graham-and-green",
+      "name": "Graham & Green",
+      "domains": [
+        "grahamandgreen.co.uk"
+      ]
+    },
+    {
+      "slug": "green-chef",
+      "name": "Green Chef",
+      "domains": [
+        "greenchef.co.uk"
+      ]
+    },
+    {
+      "slug": "gucci-uk",
+      "name": "Gucci",
+      "domains": [
+        "gucci.com"
+      ]
+    },
+    {
+      "slug": "gym-king",
+      "name": "Gym King",
+      "domains": [
+        "gymking.com"
+      ]
+    },
+    {
+      "slug": "h-and-m-uk",
+      "name": "H&M",
+      "domains": [
+        "hm.com"
+      ]
+    },
+    {
+      "slug": "habitat",
+      "name": "Habitat",
+      "domains": [
+        "habitat.co.uk"
+      ]
+    },
+    {
+      "slug": "halfords",
+      "name": "Halfords",
+      "domains": [
+        "halfords.com"
+      ]
+    },
+    {
+      "slug": "hamperscom",
+      "name": "hampers.com",
+      "domains": [
+        "hampers.com"
+      ]
+    },
+    {
+      "slug": "harrods",
+      "name": "Harrods",
+      "domains": [
+        "harrods.com"
+      ]
+    },
+    {
+      "slug": "heat-holders-uk",
+      "name": "Heat Holders",
+      "domains": [
+        "heatholders.co.uk",
+        "heatholders.com"
+      ]
+    },
+    {
+      "slug": "heathrow-express",
+      "name": "Heathrow Express",
+      "domains": [
+        "heathrowexpress.com"
+      ]
+    },
+    {
+      "slug": "herman-miller",
+      "name": "Herman Miller",
+      "domains": [
+        "hermanmiller.com"
+      ]
+    },
+    {
+      "slug": "hexclad",
+      "name": "HexClad",
+      "domains": [
+        "hexclad.com"
+      ]
+    },
+    {
+      "slug": "hilton",
+      "name": "Hilton",
+      "domains": [
+        "hilton.com"
+      ]
+    },
+    {
+      "slug": "hmv",
+      "name": "HMV",
+      "domains": [
+        "hmv.com"
+      ]
+    },
+    {
+      "slug": "hobbs",
+      "name": "Hobbs",
+      "domains": [
+        "hobbs.com"
+      ]
+    },
+    {
+      "slug": "hobbycraft",
+      "name": "Hobbycraft",
+      "domains": [
+        "hobbycraft.co.uk"
+      ]
+    },
+    {
+      "slug": "holiday-extras",
+      "name": "Holiday Extras",
+      "domains": [
+        "holidayextras.com"
+      ]
+    },
+    {
+      "slug": "holland-and-barrett",
+      "name": "Holland & Barrett",
+      "domains": [
+        "hollandandbarrett.com"
+      ]
+    },
+    {
+      "slug": "homebase",
+      "name": "Homebase",
+      "domains": [
+        "homebase.co.uk"
+      ]
+    },
+    {
+      "slug": "hoppa",
+      "name": "hoppa",
+      "domains": [
+        "hoppa.com"
+      ]
+    },
+    {
+      "slug": "hotel-du-vin",
+      "name": "Hotel du Vin",
+      "domains": [
+        "hotelduvin.com"
+      ]
+    },
+    {
+      "slug": "hotelscom-uk",
+      "name": "Hotels.com",
+      "domains": [
+        "hotels.com"
+      ]
+    },
+    {
+      "slug": "hp-instant-ink",
+      "name": "HP Instant Ink",
+      "domains": [
+        "hp.com"
+      ]
+    },
+    {
+      "slug": "huawei-uk",
+      "name": "Huawei",
+      "domains": [
+        "huawei.com"
+      ]
+    },
+    {
+      "slug": "hugo-boss-uk",
+      "name": "Hugo Boss",
+      "domains": [
+        "hugoboss.com"
+      ]
+    },
+    {
+      "slug": "hush",
+      "name": "Hush",
+      "domains": [
+        "hush-uk.com"
+      ]
+    },
+    {
+      "slug": "iherb-uk",
+      "name": "iHerb",
+      "domains": [
+        "iherb.com"
+      ]
+    },
+    {
+      "slug": "ihg-hotels-and-resorts",
+      "name": "IHG Hotels & Resorts",
+      "domains": [
+        "ihg.com"
+      ]
+    },
+    {
+      "slug": "insureandgo",
+      "name": "InsureandGo",
+      "domains": [
+        "insureandgo.com"
+      ]
+    },
+    {
+      "slug": "jacamo",
+      "name": "Jacamo",
+      "domains": [
+        "jacamo.co.uk"
+      ]
+    },
+    {
+      "slug": "jd-sports",
+      "name": "JD Sports",
+      "domains": [
+        "jdsports.co.uk"
+      ]
+    },
+    {
+      "slug": "jimmy-choo",
+      "name": "Jimmy Choo",
+      "domains": [
+        "jimmychoo.com"
+      ]
+    },
+    {
+      "slug": "jo-malone-london",
+      "name": "Jo Malone London",
+      "domains": [
+        "jomalone.co.uk"
+      ]
+    },
+    {
+      "slug": "john-greed-jewellery",
+      "name": "John Greed",
+      "domains": [
+        "johngreed.com"
+      ]
+    },
+    {
+      "slug": "john-lewis-and-partners",
+      "name": "John Lewis & Partners",
+      "domains": [
+        "johnlewis.com"
+      ]
+    },
+    {
+      "slug": "johnstons-of-elgin",
+      "name": "Johnstons of Elgin",
+      "domains": [
+        "johnstonsofelgin.com"
+      ]
+    },
+    {
+      "slug": "julian-charles",
+      "name": "Julian Charles",
+      "domains": [
+        "juliancharles.co.uk"
+      ]
+    },
+    {
+      "slug": "karcher-uk",
+      "name": "Karcher",
+      "domains": [
+        "kaercher.com"
+      ]
+    },
+    {
+      "slug": "karen-millen",
+      "name": "Karen Millen",
+      "domains": [
+        "karenmillen.com"
+      ]
+    },
+    {
+      "slug": "kate-spade-new-york-uk",
+      "name": "Kate Spade",
+      "domains": [
+        "katespade.co.uk"
+      ]
+    },
+    {
+      "slug": "kerastase-uk",
+      "name": "Kerastase",
+      "domains": [
+        "kerastase.co.uk"
+      ]
+    },
+    {
+      "slug": "kiehls-uk",
+      "name": "Kiehl's",
+      "domains": [
+        "kiehls.co.uk"
+      ]
+    },
+    {
+      "slug": "klook-uk",
+      "name": "Klook",
+      "domains": [
+        "klook.com"
+      ]
+    },
+    {
+      "slug": "kurt-geiger",
+      "name": "Kurt Geiger",
+      "domains": [
+        "kurtgeiger.com"
+      ]
+    },
+    {
+      "slug": "la-roche-posay-uk",
+      "name": "La Roche-Posay",
+      "domains": [
+        "laroche-posay.co.uk"
+      ]
+    },
+    {
+      "slug": "lakeland",
+      "name": "Lakeland",
+      "domains": [
+        "lakeland.co.uk"
+      ]
+    },
+    {
+      "slug": "lancome-uk",
+      "name": "Lancome",
+      "domains": [
+        "lancome.co.uk"
+      ]
+    },
+    {
+      "slug": "lands-end-uk",
+      "name": "Lands End UK",
+      "domains": [
+        "landsend.co.uk"
+      ]
+    },
+    {
+      "slug": "le-specs-uk",
+      "name": "Le Specs",
+      "domains": [
+        "lespecs.co.uk",
+        "lespecs.com"
+      ]
+    },
+    {
+      "slug": "leaseloco",
+      "name": "LeaseLoco",
+      "domains": [
+        "leaseloco.com"
+      ]
+    },
+    {
+      "slug": "lego-uk",
+      "name": "LEGO",
+      "domains": [
+        "lego.com"
+      ]
+    },
+    {
+      "slug": "levis-uk",
+      "name": "Levi's",
+      "domains": [
+        "levi.com"
+      ]
+    },
+    {
+      "slug": "liberty-london",
+      "name": "Liberty London",
+      "domains": [
+        "libertylondon.com"
+      ]
+    },
+    {
+      "slug": "liforme",
+      "name": "Liforme",
+      "domains": [
+        "liforme.com"
+      ]
+    },
+    {
+      "slug": "lights4fun",
+      "name": "Lights4Fun",
+      "domains": [
+        "lights4fun.co.uk"
+      ]
+    },
+    {
+      "slug": "lightscouk",
+      "name": "Lights.co.uk",
+      "domains": [
+        "lights.co.uk"
+      ]
+    },
+    {
+      "slug": "living-dna",
+      "name": "Living DNA",
+      "domains": [
+        "livingdna.com"
+      ]
+    },
+    {
+      "slug": "liz-earle-uk",
+      "name": "Liz Earle UK",
+      "domains": [
+        "lizearle.com"
+      ]
+    },
+    {
+      "slug": "london-eye",
+      "name": "London Eye",
+      "domains": [
+        "londoneye.com"
+      ]
+    },
+    {
+      "slug": "londontheatredirect",
+      "name": "LondonTheatreDirect",
+      "domains": [
+        "londontheatredirect.com"
+      ]
+    },
+    {
+      "slug": "lookfantastic",
+      "name": "Lookfantastic",
+      "domains": [
+        "lookfantastic.com"
+      ]
+    },
+    {
+      "slug": "lovetheatre",
+      "name": "LOVEtheatre",
+      "domains": [
+        "lovetheatre.com"
+      ]
+    },
+    {
+      "slug": "lululemon-uk",
+      "name": "lululemon",
+      "domains": [
+        "lululemon.co.uk"
+      ]
+    },
+    {
+      "slug": "lyca-mobile",
+      "name": "Lyca Mobile",
+      "domains": [
+        "lycamobile.co.uk"
+      ]
+    },
+    {
+      "slug": "magee-1866-uk",
+      "name": "Magee 1866",
+      "domains": [
+        "magee1866.com"
+      ]
+    },
+    {
+      "slug": "malmaison",
+      "name": "Malmaison",
+      "domains": [
+        "malmaison.com"
+      ]
+    },
+    {
+      "slug": "mamas-and-papas",
+      "name": "Mamas & Papas",
+      "domains": [
+        "mamasandpapas.com"
+      ]
+    },
+    {
+      "slug": "mango-uk",
+      "name": "MANGO UK",
+      "domains": [
+        "mango.com"
+      ]
+    },
+    {
+      "slug": "manypets",
+      "name": "ManyPets",
+      "domains": [
+        "manypets.com"
+      ]
+    },
+    {
+      "slug": "marks-and-spencer",
+      "name": "Marks & Spencer",
+      "domains": [
+        "marksandspencer.com"
+      ]
+    },
+    {
+      "slug": "marriott-bonvoy",
+      "name": "Marriott Bonvoy",
+      "domains": [
+        "marriott.com",
+        "marriott.co.uk"
+      ]
+    },
+    {
+      "slug": "matalan",
+      "name": "Matalan",
+      "domains": [
+        "matalan.co.uk"
+      ]
+    },
+    {
+      "slug": "mejuri",
+      "name": "Mejuri",
+      "domains": [
+        "mejuri.com"
+      ]
+    },
+    {
+      "slug": "merit-beauty",
+      "name": "MERIT Beauty",
+      "domains": [
+        "meritbeauty.com"
+      ]
+    },
+    {
+      "slug": "michael-kors-uk",
+      "name": "Michael Kors",
+      "domains": [
+        "michaelkors.co.uk"
+      ]
+    },
+    {
+      "slug": "miele",
+      "name": "Miele",
+      "domains": [
+        "miele.co.uk"
+      ]
+    },
+    {
+      "slug": "mint-velvet",
+      "name": "Mint Velvet",
+      "domains": [
+        "mintvelvet.com"
+      ]
+    },
+    {
+      "slug": "mobilescouk",
+      "name": "mobiles.co.uk",
+      "domains": [
+        "mobiles.co.uk"
+      ]
+    },
+    {
+      "slug": "molton-brown",
+      "name": "Molton Brown",
+      "domains": [
+        "moltonbrown.co.uk"
+      ]
+    },
+    {
+      "slug": "moncler-uk",
+      "name": "Moncler",
+      "domains": [
+        "moncler.com"
+      ]
+    },
+    {
+      "slug": "moneysupermarket-travel-insurance",
+      "name": "MoneySuperMarket",
+      "domains": [
+        "moneysupermarket.com"
+      ]
+    },
+    {
+      "slug": "monica-vinader",
+      "name": "Monica Vinader",
+      "domains": [
+        "monicavinader.com"
+      ]
+    },
+    {
+      "slug": "monsoon",
+      "name": "Monsoon",
+      "domains": [
+        "monsoon.co.uk"
+      ]
+    },
+    {
+      "slug": "montblanc",
+      "name": "Montblanc",
+      "domains": [
+        "montblanc.com"
+      ]
+    },
+    {
+      "slug": "more-than-pet-insurance",
+      "name": "More Than",
+      "domains": [
+        "morethan.com"
+      ]
+    },
+    {
+      "slug": "morphy-richards",
+      "name": "Morphy Richards",
+      "domains": [
+        "morphyrichards.co.uk"
+      ]
+    },
+    {
+      "slug": "moss",
+      "name": "Moss",
+      "domains": [
+        "moss.co.uk"
+      ]
+    },
+    {
+      "slug": "mountain-warehouse",
+      "name": "Mountain Warehouse",
+      "domains": [
+        "mountainwarehouse.com"
+      ]
+    },
+    {
+      "slug": "mr-porter-uk",
+      "name": "MR PORTER",
+      "domains": [
+        "mrporter.com"
+      ]
+    },
+    {
+      "slug": "mugler",
+      "name": "Mugler",
+      "domains": [
+        "mugler.com"
+      ]
+    },
+    {
+      "slug": "mulberry",
+      "name": "Mulberry",
+      "domains": [
+        "mulberry.com"
+      ]
+    },
+    {
+      "slug": "myproteincom-uk",
+      "name": "Myprotein",
+      "domains": [
+        "myprotein.com"
+      ]
+    },
+    {
+      "slug": "mytheresa",
+      "name": "Mytheresa",
+      "domains": [
+        "mytheresa.com"
+      ]
+    },
+    {
+      "slug": "nails-inc",
+      "name": "Nails Inc",
+      "domains": [
+        "nailsinc.com"
+      ]
+    },
+    {
+      "slug": "national-express",
+      "name": "National Express",
+      "domains": [
+        "nationalexpress.com"
+      ]
+    },
+    {
+      "slug": "natural-baby-shower",
+      "name": "Natural Baby Shower",
+      "domains": [
+        "naturalbabyshower.co.uk"
+      ]
+    },
+    {
+      "slug": "neptune",
+      "name": "Neptune",
+      "domains": [
+        "neptune.com"
+      ]
+    },
+    {
+      "slug": "nespresso-coffee",
+      "name": "Nespresso",
+      "domains": [
+        "nespresso.com"
+      ]
+    },
+    {
+      "slug": "net-a-porter",
+      "name": "Net-a-Porter",
+      "domains": [
+        "net-a-porter.com"
+      ]
+    },
+    {
+      "slug": "never-fully-dressed-uk",
+      "name": "Never Fully Dressed",
+      "domains": [
+        "neverfullydressed.co.uk",
+        "neverfullydressed.com"
+      ]
+    },
+    {
+      "slug": "new-balance-uk",
+      "name": "New Balance",
+      "domains": [
+        "newbalance.co.uk",
+        "newbalance.com"
+      ]
+    },
+    {
+      "slug": "new-look",
+      "name": "New Look",
+      "domains": [
+        "newlook.com"
+      ]
+    },
+    {
+      "slug": "nh-hotels-uk",
+      "name": "NH Hotels",
+      "domains": [
+        "nh-hotels.com"
+      ]
+    },
+    {
+      "slug": "nicce",
+      "name": "NICCE",
+      "domains": [
+        "nicce.co.uk"
+      ]
+    },
+    {
+      "slug": "nike-uk",
+      "name": "Nike",
+      "domains": [
+        "nike.com"
+      ]
+    },
+    {
+      "slug": "nobodys-child",
+      "name": "Nobody's Child",
+      "domains": [
+        "nobodyschild.com"
+      ]
+    },
+    {
+      "slug": "notonthehighstreet",
+      "name": "Notonthehighstreet",
+      "domains": [
+        "notonthehighstreet.com"
+      ]
+    },
+    {
+      "slug": "nuxe-uk",
+      "name": "NUXE UK",
+      "domains": [
+        "nuxe.com"
+      ]
+    },
+    {
+      "slug": "oakley-uk",
+      "name": "Oakley",
+      "domains": [
+        "oakley.com"
+      ]
+    },
+    {
+      "slug": "oasis",
+      "name": "Oasis",
+      "domains": [
+        "oasisfashion.com"
+      ]
+    },
+    {
+      "slug": "odd-muse",
+      "name": "Odd Muse",
+      "domains": [
+        "oddmuse.co.uk"
+      ]
+    },
+    {
+      "slug": "oliver-bonas",
+      "name": "Oliver Bonas",
+      "domains": [
+        "oliverbonas.com"
+      ]
+    },
+    {
+      "slug": "ooni-uk",
+      "name": "Ooni",
+      "domains": [
+        "ooni.com"
+      ]
+    },
+    {
+      "slug": "otterbox",
+      "name": "OtterBox",
+      "domains": [
+        "otterbox.co.uk"
+      ]
+    },
+    {
+      "slug": "panasonic-uk",
+      "name": "Panasonic",
+      "domains": [
+        "panasonic.com"
+      ]
+    },
+    {
+      "slug": "pandora",
+      "name": "Pandora",
+      "domains": [
+        "pandora.net"
+      ]
+    },
+    {
+      "slug": "parkdean-resorts",
+      "name": "Parkdean Resorts",
+      "domains": [
+        "parkdeanresorts.co.uk"
+      ]
+    },
+    {
+      "slug": "paul-smith",
+      "name": "Paul Smith",
+      "domains": [
+        "paulsmith.com"
+      ]
+    },
+    {
+      "slug": "peacocks",
+      "name": "Peacocks",
+      "domains": [
+        "peacocks.co.uk"
+      ]
+    },
+    {
+      "slug": "percival",
+      "name": "Percival",
+      "domains": [
+        "percivalclo.com"
+      ]
+    },
+    {
+      "slug": "pets-at-home",
+      "name": "Pets at Home",
+      "domains": [
+        "petsathome.com"
+      ]
+    },
+    {
+      "slug": "phase-eight",
+      "name": "Phase Eight",
+      "domains": [
+        "phase-eight.com"
+      ]
+    },
+    {
+      "slug": "polarn-o-pyret",
+      "name": "Polarn O. Pyret",
+      "domains": [
+        "polarnopyret.co.uk"
+      ]
+    },
+    {
+      "slug": "pooch-and-mutt",
+      "name": "Pooch & Mutt",
+      "domains": [
+        "poochandmutt.co.uk"
+      ]
+    },
+    {
+      "slug": "posturite",
+      "name": "Posturite",
+      "domains": [
+        "posturite.co.uk"
+      ]
+    },
+    {
+      "slug": "premier-inn-at-home",
+      "name": "Premier Inn at Home",
+      "domains": [
+        "premierinnathome.com"
+      ]
+    },
+    {
+      "slug": "premier-inn-uk",
+      "name": "Premier Inn",
+      "domains": [
+        "premierinn.com"
+      ]
+    },
+    {
+      "slug": "prettylittlething",
+      "name": "PrettyLittleThing",
+      "domains": [
+        "prettylittlething.com"
+      ]
+    },
+    {
+      "slug": "puma-uk",
+      "name": "Puma UK",
+      "domains": [
+        "puma.com"
+      ]
+    },
+    {
+      "slug": "purple-parking",
+      "name": "Purple Parking",
+      "domains": [
+        "purpleparking.com"
+      ]
+    },
+    {
+      "slug": "q-park",
+      "name": "Q-Park",
+      "domains": [
+        "q-park.co.uk"
+      ]
+    },
+    {
+      "slug": "rac-uk-breakdown-cover",
+      "name": "RAC",
+      "domains": [
+        "rac.co.uk"
+      ]
+    },
+    {
+      "slug": "radisson-hotels",
+      "name": "Radisson Hotels",
+      "domains": [
+        "radissonhotels.com"
+      ]
+    },
+    {
+      "slug": "ralph-lauren-uk",
+      "name": "Ralph Lauren",
+      "domains": [
+        "ralphlauren.co.uk"
+      ]
+    },
+    {
+      "slug": "ray-ban-uk",
+      "name": "Ray-Ban",
+      "domains": [
+        "ray-ban.com"
+      ]
+    },
+    {
+      "slug": "regatta",
+      "name": "Regatta",
+      "domains": [
+        "regatta.com"
+      ]
+    },
+    {
+      "slug": "reiss-uk",
+      "name": "Reiss",
+      "domains": [
+        "reiss.com"
+      ]
+    },
+    {
+      "slug": "remarkable",
+      "name": "reMarkable",
+      "domains": [
+        "remarkable.com"
+      ]
+    },
+    {
+      "slug": "river-island",
+      "name": "River Island",
+      "domains": [
+        "riverisland.com"
+      ]
+    },
+    {
+      "slug": "robert-dyas",
+      "name": "Robert Dyas",
+      "domains": [
+        "robertdyas.co.uk"
+      ]
+    },
+    {
+      "slug": "roborock-uk",
+      "name": "Roborock",
+      "domains": [
+        "roborock.com"
+      ]
+    },
+    {
+      "slug": "rohan",
+      "name": "Rohan",
+      "domains": [
+        "rohan.co.uk"
+      ]
+    },
+    {
+      "slug": "sage-appliances",
+      "name": "Sage Appliances",
+      "domains": [
+        "sageappliances.com"
+      ]
+    },
+    {
+      "slug": "samsung-uk",
+      "name": "Samsung",
+      "domains": [
+        "samsung.com"
+      ]
+    },
+    {
+      "slug": "scamp-and-dude",
+      "name": "Scamp & Dude",
+      "domains": [
+        "scampanddude.com"
+      ]
+    },
+    {
+      "slug": "schuh",
+      "name": "Schuh",
+      "domains": [
+        "schuh.co.uk"
+      ]
+    },
+    {
+      "slug": "sealskinz",
+      "name": "Sealskinz",
+      "domains": [
+        "sealskinz.com"
+      ]
+    },
+    {
+      "slug": "seasalt-cornwall",
+      "name": "Seasalt Cornwall",
+      "domains": [
+        "seasaltcornwall.com"
+      ]
+    },
+    {
+      "slug": "secret-sales",
+      "name": "Secret Sales",
+      "domains": [
+        "secretsales.com"
+      ]
+    },
+    {
+      "slug": "selfridges",
+      "name": "Selfridges",
+      "domains": [
+        "selfridges.com"
+      ]
+    },
+    {
+      "slug": "sephora-uk",
+      "name": "Sephora UK",
+      "domains": [
+        "sephora.co.uk"
+      ]
+    },
+    {
+      "slug": "shein-uk",
+      "name": "SHEIN",
+      "domains": [
+        "shein.co.uk"
+      ]
+    },
+    {
+      "slug": "silentnight",
+      "name": "Silentnight",
+      "domains": [
+        "silentnight.co.uk"
+      ]
+    },
+    {
+      "slug": "simba-sleep",
+      "name": "Simba Sleep",
+      "domains": [
+        "simbasleep.com"
+      ]
+    },
+    {
+      "slug": "simply-be",
+      "name": "Simply Be",
+      "domains": [
+        "simplybe.co.uk"
+      ]
+    },
+    {
+      "slug": "skechers-uk",
+      "name": "SKECHERS",
+      "domains": [
+        "skechers.co.uk",
+        "skechers.com"
+      ]
+    },
+    {
+      "slug": "smartbuyglasses-uk",
+      "name": "SmartBuyGlasses",
+      "domains": [
+        "smartbuyglasses.co.uk"
+      ]
+    },
+    {
+      "slug": "soak-and-sleep",
+      "name": "Soak&Sleep",
+      "domains": [
+        "soakandsleep.com"
+      ]
+    },
+    {
+      "slug": "soho-home",
+      "name": "Soho Home",
+      "domains": [
+        "sohohome.com"
+      ]
+    },
+    {
+      "slug": "sony-store-online",
+      "name": "Sony",
+      "domains": [
+        "sony.co.uk"
+      ]
+    },
+    {
+      "slug": "sorel-uk",
+      "name": "Sorel",
+      "domains": [
+        "sorelfootwear.co.uk",
+        "sorel.com"
+      ]
+    },
+    {
+      "slug": "spabreakscom",
+      "name": "SpaBreaks",
+      "domains": [
+        "spabreaks.com"
+      ]
+    },
+    {
+      "slug": "space-nk-uk",
+      "name": "Space NK",
+      "domains": [
+        "spacenk.com"
+      ]
+    },
+    {
+      "slug": "speedo",
+      "name": "Speedo",
+      "domains": [
+        "speedo.com"
+      ]
+    },
+    {
+      "slug": "stella-mccartney",
+      "name": "Stella McCartney",
+      "domains": [
+        "stellamccartney.com"
+      ]
+    },
+    {
+      "slug": "stylevana",
+      "name": "Stylevana",
+      "domains": [
+        "stylevana.com"
+      ]
+    },
+    {
+      "slug": "sunglass-hut-uk",
+      "name": "Sunglass Hut",
+      "domains": [
+        "sunglasshut.com"
+      ]
+    },
+    {
+      "slug": "sunspel",
+      "name": "Sunspel",
+      "domains": [
+        "sunspel.com"
+      ]
+    },
+    {
+      "slug": "superdrug",
+      "name": "Superdrug",
+      "domains": [
+        "superdrug.com"
+      ]
+    },
+    {
+      "slug": "superdry",
+      "name": "Superdry",
+      "domains": [
+        "superdry.com"
+      ]
+    },
+    {
+      "slug": "swarovski-uk",
+      "name": "Swarovski",
+      "domains": [
+        "swarovski.com"
+      ]
+    },
+    {
+      "slug": "sweaty-betty",
+      "name": "Sweaty Betty",
+      "domains": [
+        "sweatybetty.com"
+      ]
+    },
+    {
+      "slug": "swift-direct-blinds",
+      "name": "Swift Direct Blinds",
+      "domains": [
+        "swiftdirectblinds.co.uk"
+      ]
+    },
+    {
+      "slug": "swizzels",
+      "name": "Swizzels",
+      "domains": [
+        "swizzels.com"
+      ]
+    },
+    {
+      "slug": "ted-baker",
+      "name": "Ted Baker",
+      "domains": [
+        "tedbaker.com"
+      ]
+    },
+    {
+      "slug": "tempur",
+      "name": "Tempur",
+      "domains": [
+        "tempur.com"
+      ]
+    },
+    {
+      "slug": "tentbox",
+      "name": "TentBox",
+      "domains": [
+        "tentbox.com"
+      ]
+    },
+    {
+      "slug": "the-aa-uk-breakdown",
+      "name": "The AA",
+      "domains": [
+        "theaa.com"
+      ]
+    },
+    {
+      "slug": "the-belfry-hotel-and-resort",
+      "name": "The Belfry Hotel & Resort",
+      "domains": [
+        "thebelfry.com"
+      ]
+    },
+    {
+      "slug": "the-fast-800",
+      "name": "The Fast 800",
+      "domains": [
+        "thefast800.com"
+      ]
+    },
+    {
+      "slug": "the-perfume-shop",
+      "name": "The Perfume Shop",
+      "domains": [
+        "theperfumeshop.com"
+      ]
+    },
+    {
+      "slug": "the-range",
+      "name": "The Range",
+      "domains": [
+        "therange.co.uk"
+      ]
+    },
+    {
+      "slug": "the-royal-mint",
+      "name": "The Royal Mint",
+      "domains": [
+        "royalmint.com"
+      ]
+    },
+    {
+      "slug": "the-whisky-exchange",
+      "name": "The Whisky Exchange",
+      "domains": [
+        "thewhiskyexchange.com"
+      ]
+    },
+    {
+      "slug": "the-white-company",
+      "name": "The White Company",
+      "domains": [
+        "thewhitecompany.com"
+      ]
+    },
+    {
+      "slug": "the-wine-flyer",
+      "name": "The Wine Flyer",
+      "domains": [
+        "thewineflyer.co.uk"
+      ]
+    },
+    {
+      "slug": "thistle-hotels",
+      "name": "Thistle Hotels",
+      "domains": [
+        "thistle.com"
+      ]
+    },
+    {
+      "slug": "ticombo",
+      "name": "Ticombo",
+      "domains": [
+        "ticombo.com"
+      ]
+    },
+    {
+      "slug": "tommy-hilfiger-uk",
+      "name": "Tommy Hilfiger",
+      "domains": [
+        "tommy.com"
+      ]
+    },
+    {
+      "slug": "trainline",
+      "name": "Trainline",
+      "domains": [
+        "thetrainline.com"
+      ]
+    },
+    {
+      "slug": "trespass",
+      "name": "Trespass",
+      "domains": [
+        "trespass.com"
+      ]
+    },
+    {
+      "slug": "twinings",
+      "name": "Twinings",
+      "domains": [
+        "twinings.co.uk"
+      ]
+    },
+    {
+      "slug": "unbiased",
+      "name": "Unbiased",
+      "domains": [
+        "unbiased.co.uk"
+      ]
+    },
+    {
+      "slug": "under-armour-uk",
+      "name": "Under Armour UK",
+      "domains": [
+        "underarmour.co.uk",
+        "underarmour.com"
+      ]
+    },
+    {
+      "slug": "uniqlo",
+      "name": "Uniqlo",
+      "domains": [
+        "uniqlo.com"
+      ]
+    },
+    {
+      "slug": "uswitch-energy",
+      "name": "Uswitch",
+      "domains": [
+        "uswitch.com"
+      ]
+    },
+    {
+      "slug": "viator-uk",
+      "name": "Viator",
+      "domains": [
+        "viator.com"
+      ]
+    },
+    {
+      "slug": "viking-direct",
+      "name": "Viking Direct",
+      "domains": [
+        "viking-direct.co.uk"
+      ]
+    },
+    {
+      "slug": "virtual-college",
+      "name": "Virtual College",
+      "domains": [
+        "virtual-college.co.uk"
+      ]
+    },
+    {
+      "slug": "vision-express",
+      "name": "Vision Express",
+      "domains": [
+        "visionexpress.com"
+      ]
+    },
+    {
+      "slug": "vitabiotics",
+      "name": "Vitabiotics",
+      "domains": [
+        "vitabiotics.com"
+      ]
+    },
+    {
+      "slug": "vodafone",
+      "name": "Vodafone",
+      "domains": [
+        "vodafone.co.uk"
+      ]
+    },
+    {
+      "slug": "vrbo",
+      "name": "Vrbo",
+      "domains": [
+        "vrbo.com"
+      ]
+    },
+    {
+      "slug": "wallpaper-direct",
+      "name": "Wallpaperdirect",
+      "domains": [
+        "wallpaperdirect.com"
+      ]
+    },
+    {
+      "slug": "warehouse",
+      "name": "Warehouse",
+      "domains": [
+        "warehousefashion.com"
+      ]
+    },
+    {
+      "slug": "waterstones",
+      "name": "Waterstones",
+      "domains": [
+        "waterstones.com"
+      ]
+    },
+    {
+      "slug": "weightwatchers-uk",
+      "name": "WeightWatchers",
+      "domains": [
+        "weightwatchers.com"
+      ]
+    },
+    {
+      "slug": "westwing-uk",
+      "name": "Westwing",
+      "domains": [
+        "westwing.co.uk"
+      ]
+    },
+    {
+      "slug": "which",
+      "name": "Which?",
+      "domains": [
+        "which.co.uk"
+      ]
+    },
+    {
+      "slug": "whistles",
+      "name": "Whistles",
+      "domains": [
+        "whistles.com"
+      ]
+    },
+    {
+      "slug": "wickes",
+      "name": "Wickes",
+      "domains": [
+        "wickes.co.uk"
+      ]
+    },
+    {
+      "slug": "wowcher",
+      "name": "Wowcher",
+      "domains": [
+        "wowcher.co.uk"
+      ]
+    },
+    {
+      "slug": "yankee-candle",
+      "name": "Yankee Candle",
+      "domains": [
+        "yankeecandle.co.uk"
+      ]
+    },
+    {
+      "slug": "zavvi",
+      "name": "Zavvi",
+      "domains": [
+        "zavvi.com"
+      ]
+    },
+    {
+      "slug": "zoopluscouk",
+      "name": "zooplus",
+      "domains": [
+        "zooplus.co.uk"
+      ]
+    }
+  ]
+}
